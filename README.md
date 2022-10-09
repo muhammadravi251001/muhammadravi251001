@@ -30,8 +30,9 @@
 - :sparkles: I use GitLab more often :sparkles:
 
 #### Development Stuffs:
-<b>⚡ Github Stats</b>
   <p align="center">
+    <b>⚡ Github Stats</b>
+    <br><br>
     <img src="https://github-readme-stats.vercel.app/api?username=muhammadravi251001&show_icons=true&theme=dark"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadravi251001&show_icons=true&theme=dark"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadravi251001&layout=compact&show_icons=true&theme=dark"/>
