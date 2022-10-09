@@ -41,7 +41,7 @@
 #### Get to know me better:
   
 <a href="https://medium.com/@muhammadravi251001">
-    <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-network-outline-3/100/Medium-512.png"/>
+    <img height="50" src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-4/24/medium-m-512.png"/>
 </a>
 <a href="https://www.linkedin.com/in/muhammad-ravi-shulthan-habibi-0738491b2/">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
