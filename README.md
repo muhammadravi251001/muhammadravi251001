@@ -15,6 +15,12 @@
   <a href="https://github.com/muhammadravi251001/">
     <img src="https://komarev.com/ghpvc/?username=muhammadravi251001" alt="visitors" />
   </a>
+  <a href="https://medium.com/@muhammadravi251001">
+    <img src="https://img.shields.io/badge/Medium-12100E?&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-ravi-shulthan-habibi-0738491b2/">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
 
 </p>
 
@@ -22,27 +28,10 @@
 - :technologist: I still have a lot to learn first :bulb:
 - :construction_worker: This GitHub profile hasn't been tidied up yet... just mess it up first :hammer::hammer::hammer:
 - :sparkles: I use GitLab more often :sparkles:
-<!--
-- ⚙️ I use daily: `.ts`, `.js`, `.sh`, `.dart`, `.py`, `.go`
-- 🌍 I'm mostly active within the **Flutter Community**
-- 🌱 Learning all about **DevSecOps** and **Mobile Development**
-- 💬 Ping me about **Flutter**, **Dart**, **Docker**, **RestAPIs**, **Kubernetes**
-- 📫 Reach me: [twitter.com/pawpaw](https://twitter.com/pawpaw)
-- 📝 Checkout my [Resume](files/resume.pdf).
--->
-#### Development Stuffs:
 
+#### Development Stuffs:
 <b>⚡ Github Stats</b>
 <p float="left">
 <p align="center">
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=muhammadravi251001&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=20&text_color=000&icon_color=000&bg_color=fffa6b,ffe66b,6bfdff,6bc4ff&theme=graywhite"/>
 </p>
-
-#### Get to know me better:
-  
-<a href="https://medium.com/@muhammadravi251001">
-    <img height="50" src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-4/24/medium-m-512.png"/>
-</a>
-<a href="https://www.linkedin.com/in/muhammad-ravi-shulthan-habibi-0738491b2/">
-    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
-</a>
