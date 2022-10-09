@@ -21,7 +21,7 @@
 #### Bio
 - :technologist: I still have a lot to learn first :bulb:
 - :construction_worker: This GitHub profile hasn't been tidied up yet... just mess it up first :hammer::hammer::hammer:
-- :sparkles: I use GitLab more often
+- :sparkles: I use GitLab more often :sparkles:
 <!--
 - ⚙️ I use daily: `.ts`, `.js`, `.sh`, `.dart`, `.py`, `.go`
 - 🌍 I'm mostly active within the **Flutter Community**
