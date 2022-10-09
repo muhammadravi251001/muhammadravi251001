@@ -31,7 +31,8 @@
 
 #### Development Stuffs:
 <b>⚡ Github Stats</b>
-<p float="left">
-<p align="center">
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=muhammadravi251001&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=20&text_color=000&icon_color=000&bg_color=fffa6b,ffe66b,6bfdff,6bc4ff&theme=graywhite"/>
-</p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=muhammadravi251001&show_icons=true&theme=dark"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadravi251001&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadravi251001&layout=compact&show_icons=true&theme=dark"/>
+  </p>
