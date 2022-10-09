@@ -1,6 +1,6 @@
 ### [![@muhammadravi251001's Holopin board](https://holopin.io/api/user/board?user=muhammadravi251001)](https://holopin.io/@muhammadravi251001)
 
-## Hi 👋, I'm a software engineer working in Depok, Indonesia
+## Hi 👋, I'm a student who happens to be studying in Depok, Indonesia
 
 <p align="left">
   <a href="https://leetcode.com/muhammadravi251001/">
@@ -19,8 +19,8 @@
 </p>
 
 #### Bio
-- :technologist: Masih perlu banyak belajar dulu yaaa
-- :construction_worker: Profil Github ini belum dirapihin yak.. berantakan aja dulu :hammer::hammer::hammer:
+- :technologist: I still have a lot to learn first :bulb:
+- :construction_worker: This Github profile hasn't been tidied up yet... just mess it up first :hammer::hammer::hammer:
 <!--
 - ⚙️ I use daily: `.ts`, `.js`, `.sh`, `.dart`, `.py`, `.go`
 - 🌍 I'm mostly active within the **Flutter Community**
