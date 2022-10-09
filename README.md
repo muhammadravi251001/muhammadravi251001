@@ -33,8 +33,8 @@
 
 <b>⚡ Github Stats</b>
 <p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadravi251001&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadravi251001&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<p align="center">
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=muhammadravi251001&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=20&text_color=000&icon_color=000&bg_color=fffa6b,ffe66b,6bfdff,6bc4ff&theme=graywhite"/>
 </p>
 
 <!--
