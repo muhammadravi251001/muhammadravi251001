@@ -1,12 +1,12 @@
 ### [![@muhammadravi251001's Holopin board](https://holopin.io/api/user/board?user=muhammadravi251001)](https://holopin.io/@muhammadravi251001)
 
-## Hi 👋, I'm a student who happens to be studying in Depok, Indonesia
+## Hi, I'm a student who happens to be studying in Depok, Indonesia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="center">
   <a href="https://leetcode.com/muhammadravi251001/">
     <img src="https://cp-logo.vercel.app/leetcode/muhammadravi251001" alt="Leet code rating" />
   </a>
-  <a href="https://stackoverflow.com/users/11586024/muhammadravi251001">
+  <a href="https://stackoverflow.com/users/20197683/ravi">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/11586024?color=orange&label=reputation&logo=stackoverflow">
   </a>
   <a href="https://github.com/muhammadravi251001?tab=followers">
