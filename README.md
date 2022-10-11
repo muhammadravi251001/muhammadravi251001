@@ -46,7 +46,7 @@
 ### Bio <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 - :technologist: I still have a lot to learn first :bulb:
 - :construction_worker: This GitHub profile hasn't been tidied up yet... just mess it up first :hammer::hammer::hammer:
-- :sparkles: I use GitLab more often :sparkles:
+- :sparkles: I actually use GitLab more often as a student here :sparkles:
 
 ### Languages and tools that I've studied before <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> :
    
